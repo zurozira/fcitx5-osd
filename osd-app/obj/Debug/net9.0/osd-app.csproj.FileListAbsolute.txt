@@ -1,0 +1,8 @@
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/osd-app.csproj.AssemblyReference.cache
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/Avalonia/resources
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/osd-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/osd-app.AssemblyInfoInputs.cache
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/osd-app.AssemblyInfo.cs
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/osd-app.csproj.CoreCompileInputs.cache
+/home/zuro/projectsZ/fcitx5-osd/osd-app/obj/Debug/net9.0/osd-app.sourcelink.json

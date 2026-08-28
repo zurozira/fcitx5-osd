@@ -1,0 +1,31 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="osd_app.OsdWindow"
+        Width="240" Height="84"
+        WindowDecorations="None"
+        Background="Transparent"
+        TransparencyLevelHint="Transparent"
+        ShowInTaskbar="False"
+        CanResize="False"
+        Topmost="True"
+        ShowActivated="False"
+        Focusable="False"
+        WindowStartupLocation="Manual">
+  <Border Name="Card"
+          CornerRadius="16"
+          Background="#CC1E1E2E"
+          Padding="16"
+          Opacity="0"
+          RenderTransformOrigin="0.5,0.5">
+    <Border.RenderTransform>
+      <ScaleTransform ScaleX="0.85" ScaleY="0.85" />
+    </Border.RenderTransform>
+    <StackPanel Orientation="Horizontal" Spacing="12" VerticalAlignment="Center">
+      <TextBlock Name="IconText" Text="&#x2328;" FontSize="26" VerticalAlignment="Center" />
+      <StackPanel VerticalAlignment="Center" Spacing="2">
+        <TextBlock Name="NativeNameText" FontSize="16" Foreground="White" FontWeight="Bold" />
+        <TextBlock Name="NameText" FontSize="12" Foreground="#AAAAAA" />
+      </StackPanel>
+    </StackPanel>
+  </Border>
+</Window>

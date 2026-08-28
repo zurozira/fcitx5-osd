@@ -1,0 +1,6 @@
+[Addon]
+Name=Osd Bridge
+Comment=Forwards input method switch events to an external animated OSD renderer
+Category=Module
+Type=SharedLibrary
+Library=osdbridge

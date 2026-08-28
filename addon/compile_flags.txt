@@ -1,0 +1,4 @@
+-I/usr/include/Fcitx5/Core
+-I/usr/include/Fcitx5/Config
+-I/usr/include/Fcitx5/Utils
+-std=c++20
